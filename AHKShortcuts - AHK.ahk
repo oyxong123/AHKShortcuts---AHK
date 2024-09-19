@@ -13,7 +13,7 @@ SetWorkingDir, %A_ScriptDir%
     Return
 
 ^F5::  ; Reload all AHK startup scripts.
-    Run, "C:\Users\Admin\Documents\VS Code\AHK\AhkTrayIconConsolidator.ahk"
+    Run, "C:\Users\Admin\Documents\VS Code\AHK\TrayIconConsolidator - AHK\TrayIconConsolidator - AHK.ahk"
     Return
 
 ^F6::  ; Run the AHK Windows Spy program.
